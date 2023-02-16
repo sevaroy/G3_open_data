@@ -1,0 +1,16 @@
+1.開啟anaconda prompt
+
+2.輸入 d:
+
+3.conda create -n G3_OPEN_DATA python==3.8 -y
+
+4.conda activate G3_OPEN_DATA
+
+5.conda install git #安裝git
+
+6.git cline https://github.com/sevaroy/G3_open_data
+
+7.cd G3_open_data
+
+8.pip install streamlit 
+
