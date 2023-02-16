@@ -8,9 +8,12 @@
 
 5.conda install git #安裝git
 
-6.git cline https://github.com/sevaroy/G3_open_data
+6.git clone https://github.com/sevaroy/G3_open_data
 
 7.cd G3_open_data
 
 8.pip install streamlit 
 
+9.pip install jupyter notebook
+
+10.jupyter notebook # 開啟jupyter notebook
