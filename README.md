@@ -12,9 +12,9 @@ https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=1377&pid=725466
 ## 銷售預測跟股票預測的Colab
 https://colab.research.google.com/drive/11fMztKgXfUCa4Ifmmxy0TCw60DZg-T2C
 
-## API_test colab版本
-可輸出excel檔案
-https://colab.research.google.com/drive/1yhAsdP5LGwmxSw-WEhXxORn_MgkmG_TX?usp=sharing
+## API_data_source colab版本
+
+https://colab.research.google.com/drive/1yhAsdP5LGwmxSw-WEhXxORn_MgkmG_TX?usp=sharing #可輸出excel檔案
 
 ## 資料庫
 https://docs.postgresql.tw/tutorial
