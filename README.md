@@ -9,6 +9,8 @@ https://cuswebo.trade.gov.tw/FSC3000C?table=FSC3010F
 
 https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=1377&pid=725466
 
+https://cfp-calculate.tw/cfpc/Carbon/WebPage/FLPCRDoneList.aspx
+
 ## 銷售預測跟股票預測的Colab
 https://colab.research.google.com/drive/11fMztKgXfUCa4Ifmmxy0TCw60DZg-T2C
 
